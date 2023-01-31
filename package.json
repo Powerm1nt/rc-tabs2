@@ -1,7 +1,7 @@
 {
-  "name": "rc-tabs",
+  "name": "rc-tabs2",
   "version": "11.16.1",
-  "description": "tabs ui component for react",
+  "description": "tabs ui component for react (stable version 11)",
   "engines": {
     "node": ">=8.x"
   },
@@ -18,8 +18,8 @@
   ],
   "main": "./lib/index",
   "module": "./es/index",
-  "homepage": "http://github.com/react-component/tabs",
-  "author": "yiminghe@gmail.com",
+  "homepage": "http://github.com/Powerm1nt/rc-tabs",
+  "author": "nukaworks@nuka.works",
   "repository": {
     "type": "git",
     "url": "git@github.com:react-component/tabs.git"
