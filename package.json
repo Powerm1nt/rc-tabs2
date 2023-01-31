@@ -1,5 +1,5 @@
 {
-  "name": "rc-tabs2",
+  "name": "@powerm1nt/rc-tabs2",
   "version": "11.17.0",
   "description": "tabs ui component for react (stable version 11)",
   "engines": {
